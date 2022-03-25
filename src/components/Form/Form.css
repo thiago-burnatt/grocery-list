@@ -1,0 +1,29 @@
+.form-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+  max-width: 480px;
+  padding: 20px;
+}
+
+input {
+  height: 40px;
+  padding: 5px;
+  border: 0.5px solid black;
+  width: 100%;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  background-color: rgb(68, 163, 68);
+  height: 40px;
+  padding: 5px;
+  border: 0.5px solid black;
+
+  border-left: none;
+
+}

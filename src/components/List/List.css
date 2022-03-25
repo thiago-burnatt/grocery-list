@@ -1,0 +1,28 @@
+ul {
+  padding: 20px;
+  margin: 0 10px;
+  justify-items: center;
+}
+
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  align-content: center;
+
+}
+
+.edit {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.delete {
+  cursor: pointer;
+}
+
+span {
+  justify-content: center;
+  align-content: center;
+}

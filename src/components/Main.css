@@ -1,0 +1,11 @@
+.main-div {
+  max-width: 500px;
+  margin: 50px auto;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.main-div h1 {
+  text-align: center;
+  padding-top: 10px;
+}
